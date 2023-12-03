@@ -8465,6 +8465,11 @@ h1, h2, h3, h4, h5,
   bottom: 120px;
   z-index: 2; }
 
+@media (max-width: 991.98px) {
+  .mouse {
+    padding-top: 60px; } }
+
+  
 .mouse-icon {
   width: 70px;
   height: 70px;
